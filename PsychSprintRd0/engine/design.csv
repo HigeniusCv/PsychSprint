@@ -1,0 +1,13 @@
+cell_id,clause_level,detection,temptation,model,quota
+none-low,none,low,moderate,llama31_8b_instruct,12
+none-low,none,low,moderate,llama31_8b_base,12
+none-high,none,high,moderate,llama31_8b_instruct,12
+none-high,none,high,moderate,llama31_8b_base,12
+law-low,law,low,moderate,llama31_8b_instruct,12
+law-low,law,low,moderate,llama31_8b_base,12
+law-high,law,high,moderate,llama31_8b_instruct,12
+law-high,law,high,moderate,llama31_8b_base,12
+arbitrary-low,arbitrary,low,moderate,llama31_8b_instruct,12
+arbitrary-low,arbitrary,low,moderate,llama31_8b_base,12
+arbitrary-high,arbitrary,high,moderate,llama31_8b_instruct,12
+arbitrary-high,arbitrary,high,moderate,llama31_8b_base,12
